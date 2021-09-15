@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thuyttdoan
+- 👀 I’m interested in Energy and Climate Economics, Development Economics, and Optimization modeling
+- 🌱 I’m currently learning big data analytics, linear models, deep learning with Python
+- 💞️ I’m looking to collaborate on relevant topics
+- 📫 How to reach me thuydoan206@gmail.com
